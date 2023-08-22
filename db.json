@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "Joel Nyongesa",
+      "course": "Software Engineering",
+      "image": "https://images.pexels.com/photos/4939645/pexels-photo-4939645.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "hobby": "Swimming",
+      "id": 1
+    },
+    {
+      "name": "Daisy Machoka",
+      "course": "Maths",
+      "image": "https://images.pexels.com/photos/4260481/pexels-photo-4260481.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "hobby": "reading",
+      "id": 2
+    },
+    {
+      "name": "Mucsin Yusuf",
+      "course": "CRE",
+      "image": "https://images.pexels.com/photos/4260481/pexels-photo-4260481.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "hobby": "jogging",
+      "id": 3
+    },
+    {
+      "name": "John Doe",
+      "course": "Physics",
+      "image": "https://images.pexels.com/photos/1251861/pexels-photo-1251861.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "hobby": "eating",
+      "id": 4
+    },
+    {
+      "name": "Felix Muindi",
+      "course": "HomeScience",
+      "image": "https://images.pexels.com/photos/1007066/pexels-photo-1007066.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "hobby": "Football",
+      "id": 5
+    }
+  ]
+}
