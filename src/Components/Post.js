@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-function Post(){
+function Post({handlePost}){
     // Creating state variables.
   const [name, setName] = useState('')
   const [course, setCourse] = useState('')
@@ -40,7 +40,7 @@ function Post(){
       body: JSON.stringify(newStudent)
     })
     .then(r => r.json())
-    .then(data =>console.log(data))
+    .then(data =>handlePost(data))
     .catch(e => console.log(e))
   }
 

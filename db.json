@@ -1,10 +1,10 @@
 {
   "students": [
     {
-      "name": "Joel Nyongesa",
-      "course": "Software Engineering",
-      "image": "https://images.pexels.com/photos/4939645/pexels-photo-4939645.jpeg?auto=compress&cs=tinysrgb&w=300",
-      "hobby": "Swimming",
+      "name": "Joel",
+      "image": "https://images.pexels.com/photos/17939409/pexels-photo-17939409/free-photo-of-man-practicing-at-gym.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
+      "course": "c++",
+      "hobby": "Growing",
       "id": 1
     },
     {
@@ -34,6 +34,13 @@
       "image": "https://images.pexels.com/photos/1007066/pexels-photo-1007066.jpeg?auto=compress&cs=tinysrgb&w=300",
       "hobby": "Football",
       "id": 5
+    },
+    {
+      "name": "Medrine",
+      "course": "C++",
+      "image": "https://images.pexels.com/photos/9571268/pexels-photo-9571268.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
+      "hobby": "Hiking",
+      "id": 7
     }
   ]
 }
